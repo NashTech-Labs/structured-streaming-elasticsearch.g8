@@ -1,4 +1,0 @@
-name=Structured Streaming with Elasticsearch
-description=A Giter8 template containing predefined Structured streaming with Elasticsearch.
-verbatim=*.scala, *.conf
-
